@@ -1,0 +1,18 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java build output
+out/
+target/
+bin/
+*.class
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+
+# Temporary files
+*.swp
