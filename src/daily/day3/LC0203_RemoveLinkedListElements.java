@@ -47,7 +47,8 @@ public class LC0203_RemoveLinkedListElements {
         head.next = removeElements(head.next, val); // 先处理后面部分
         if(head.val == val) {
             return head.next; // 跳过当前节点
-        } else {
+        }
+        else {
             return head;      // 保留当前节点
         }
     }
