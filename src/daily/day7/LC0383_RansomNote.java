@@ -1,4 +1,4 @@
-package daily.day6;
+package daily.day7;
 
 /**
  * LeetCode 0383 - RansomNote
