@@ -1,4 +1,4 @@
 package daily.day22;
 
-public class LC0077 {
+public class LC_0077 {
 }
