@@ -1,4 +1,4 @@
-package daily.day33;
+package daily.day34;
 
 public class LC_0063_Unique_Paths_II {
     public int uniquePathsWithObstacles(int[][] obstacleGrid) {
